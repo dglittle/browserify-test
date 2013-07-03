@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "description": "undescribed",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "gl519": "git://github.com/dglittle/gl519.git#gh-pages"
+  },
+  "engines": {
+    "node": "0.10.*",
+    "npm": "1.2.*"
+  }
+}
